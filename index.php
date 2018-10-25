@@ -53,7 +53,7 @@
                 </div>
                 <nav id="header-main-menu">
                     <ul class="main-menu sm sm-clean">
-                        <li><a href="index.html" class="current">Home</a></li>
+                        <li><a href="index.php" class="current">Home</a></li>
                         <li><a href="about.html">About</a></li>
                     </ul>
                 </nav>
@@ -65,7 +65,7 @@
             </div>
             <div class="menu-right-part">
                 <div class="logo-holder">
-                    <a href="index.html">
+                    <a href="index.php">
                         <img src="images/logo.png" alt="Suppablog WP">
                     </a>
                 </div>
@@ -78,6 +78,7 @@
                     <div class="social-list">
                         <a href="https://twitter.com/gscottwalters"><i class="fa fa-twitter"></i></a>
                         <a href="https://linkedin.com/in/gscottwalters"><i class="fa fa-linkedin"></i></a>
+			<a href="https://github.com/gscottwalters/gscottwalters.org"><i class="fa fa-git"></i></a>
                     </div>
                 </div>
                 <div class="fixed scroll-top"><i class="fa fa-caret-square-o-up" aria-hidden="true"></i></div>
