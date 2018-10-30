@@ -147,7 +147,7 @@ if($i > 4) break;
             </div>
 
             <div class="featured-image-holder">
-                <div class="featured-post-image" style="background-image: url(demo-images/featured-image.jpg)"></div>
+                <div class="featured-post-image" style="background-image: url(images/autumn-computer-concept-296084.jpg)"></div>
 
             </div>
             <div class="clear"></div>
