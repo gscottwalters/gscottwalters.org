@@ -46,9 +46,9 @@
                     </label>
                 </div>
                 <div class="site-info-holder">
-                    <h1 class="site-title">Suppablog</h1>
+                    <h1 class="site-title">gscottwalters.org</h1>
                     <p class="site-description">
-                        Suppablog is simple and yet cool wordpress theme to lorem ipsum dolor sit.
+                        Ideation, Strategic, Learner, Analytical, Input
                     </p>
                 </div>
                 <nav id="header-main-menu">
