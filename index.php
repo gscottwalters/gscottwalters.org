@@ -1,7 +1,18 @@
 <!DOCTYPE HTML>
 <html lang="en-US">
     <head>
-        <title>Suppablog - Minimal Blog Html Template</title>
+	
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-57392712-3"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'UA-57392712-3');
+	</script>	    
+	    
+        <title>GScott--Home </title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <meta name="description" content="Template by Colorlib" />
         <meta name="keywords" content="HTML, CSS, JavaScript, PHP" />
@@ -20,7 +31,7 @@
         <!--[if lt IE 9]>
                 <script src="js/html5.js"></script>
         <![endif]-->
-
+     
     </head>
 
 
